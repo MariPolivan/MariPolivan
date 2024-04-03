@@ -1,7 +1,6 @@
 <br clear="both">
 
-<div align="center">
-  <img height="300" width="600" src="[https://emvg.energie-und-management.de/filestore/newsimgorg/Top_Studien/Studien/Studien_shutterstock_1121294939_HI.jpg]"  />
+![](https://emvg.energie-und-management.de/filestore/newsimgorg/Top_Studien/Studien/Studien_shutterstock_1121294939_HI.jpg)  />
 </div>
 
 ###
