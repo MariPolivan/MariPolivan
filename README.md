@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img  src="https://img1bm.b8cdn.com/images/resources/wysiwyg-img/answerimg_V7gXU6vn.gif"  />
+  <img  src="https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header-wide.gif"  />
 </div>
 
 ###
