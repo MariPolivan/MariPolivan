@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" width="500"  src="https://avatars.dzeninfra.ru/get-zen_doc/9661583/pub_646797fc347ec31a9414878b_64679989ee1624489e794e1a/orig"  />
+  <img height="200" width="400"  src="https://avatars.dzeninfra.ru/get-zen_doc/9661583/pub_646797fc347ec31a9414878b_64679989ee1624489e794e1a/orig"  />
 </div>
 
 ###
@@ -36,6 +36,8 @@
 
 ###
 <div align="left">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="70"/>
+   <img width="12" />
 <href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
   <img width="12" />
 <href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" />  
