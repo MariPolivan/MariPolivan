@@ -1,13 +1,11 @@
-<br clear="both">
-
-![](https://emvg.energie-und-management.de/filestore/newsimgorg/Top_Studien/Studien/Studien_shutterstock_1121294939_HI.jpg)  />
-</div>
-
 ###
 
 <h1 align="center">Привет👋 Меня зовут Мария!</h1>
 
 ###
+
+![](https://emvg.energie-und-management.de/filestore/newsimgorg/Top_Studien/Studien/Studien_shutterstock_1121294939_HI.jpg)
+
 ###
 
 <div align="center">
@@ -32,53 +30,73 @@
 
 Выбрала аналитику, так как это интересно и близко мне по жизни. 
 
-Прошла обучение на Аналитика данных в Яндекс Практикуме. 
-Продолжаю прокачивать свои скилы в этой области.
+- 📚 Прошла обучение на Аналитика данных в Яндекс Практикуме.
+- ⚡ Продолжаю прокачивать свои скилы в этой области.
+- 📚 Имею высшее образование по специальности - Бухгалтерский учет, анализ и аудит. Проработала более 10 лет бухгалтером.
 
-Имею высшее образование по специальности - Бухгалтерский учет, анализ и аудит. Проработала более 10 лет бухгалтером.
+###
 
-### Skills
+<h3 align="left">🛠  СТЕК:</h3>
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-</p>
-`Python` / `SQL` / `Tableau` / `Pandas` / `Matplotlib` / `NumPy` / `SciPy` / `PostgreSQL` / `A/B tests` / `Plotly` / `Seaborn` / 
+###
+<div align="left">
+<href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+  <img width="12" />
+<href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" />  
+  <img width="12" />
+<href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />   
+  <img width="12" />
+<href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /> 
+  <img width="12" />
+  
+</div>
+
+![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) 
+<img width="12" />
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=Pandas&logoColor=white)
+<img width="12" />
+![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=NumPy&logoColor=white)
+<img width="12" />
+![SciPy](https://img.shields.io/badge/SciPy-000000?style=for-the-badge&logo=SciPy&logoColor=white)
+<img width="12" />
+![A/B-tests](https://img.shields.io/badge/A/B-tests-000000?style=for-the-badge&logo=A/B-tests&logoColor=white)
+<img width="12" />
+![Plotly](https://img.shields.io/badge/Plotly-000000?style=for-the-badge&logo=Plotly&logoColor=white)
+<img width="12" />
+![Seaborn](https://img.shields.io/badge/Seaborn-000000?style=for-the-badge&logo=Seaborn&logoColor=white)
+<img width="12" />
+![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=Matplotlib&logoColor=white)
+<img width="12" />
+   
+###
 
 - 🔭 Сейчас работаю над созданием портфолио https://github.com/MariPolivan/Portfolio
   
 - ⚡ Забавный факт обо мне: Люблю всё посчитать -  недавно в гостях у сестры разобрала гору стираных носков по паром, вот что у меня получилось: 37 пар белых носков; 46 цветных пар; 19 тёмных пар носков; 10 пар - полосатые; 14 остались без пары. Из них детских пар носков ~81%, а взрослых - около 19% пар, что очевидно, в семье 4 детей. Цветные носки в основном детские, большая часть тёмных носков мужские взрослые, женские взрослые носки преимущественно белые.
 
+###
+<h3 align="left">🔥   Моя статистика :</h3>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MariPolivan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](maripolivan)  
+###
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=filimonovalexey&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MariPolivan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MariPolivan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MariPolivan&show_icons=true&count_private=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/MariPolivan)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=MariPolivan)  
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-<div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
-
-<br/>  
 
 
 ## Connect with me  
