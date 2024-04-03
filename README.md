@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="600"  src="https://avatars.dzeninfra.ru/get-zen_doc/9661583/pub_646797fc347ec31a9414878b_64679989ee1624489e794e1a/orig"  />
+  <img height="200" width="500"  src="https://avatars.dzeninfra.ru/get-zen_doc/9661583/pub_646797fc347ec31a9414878b_64679989ee1624489e794e1a/orig"  />
 </div>
 
 ###
