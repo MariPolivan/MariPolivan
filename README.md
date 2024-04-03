@@ -1,10 +1,12 @@
+<br clear="both">
+
+<div align="center">
+  <img height="200"  src="https://emvg.energie-und-management.de/filestore/newsimgorg/Top_Studien/Studien/Studien_shutterstock_1121294939_HI.jpg"  />
+</div>
+
 ###
 
-<h1 align="center">Привет👋 Меня зовут Мария!</h1>
-
-###
-
-![](https://emvg.energie-und-management.de/filestore/newsimgorg/Top_Studien/Studien/Studien_shutterstock_1121294939_HI.jpg)
+<h1 align="center">Привет! 👋 Меня зовут Мария!</h1>
 
 ###
 
@@ -12,12 +14,6 @@
   <a href="https://t.me/maripolivan" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MariPolivan.MariPolivan&"  />
 </div>
 
 ###
@@ -92,46 +88,8 @@
 
 ###
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MariPolivan&show_icons=true&count_private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/MariPolivan)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=MariPolivan)  
-
-
-## Connect with me  
-<a href="https://github.com/MariPolivan" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MariPolivan&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-<div align="center"><img src="https://MariPolivan.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=MariPolivan&&style=flat-square" align="center" />
 </div>  
   
-
-<br/>  
-
-<div align="center"></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
