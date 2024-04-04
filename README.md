@@ -35,8 +35,8 @@
 <h3 align="left">🛠  СТЕК:</h3>
 
 ###
-<div align="left">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="70"/>
+<div align="center">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="50"/>
    <img width="12" />
 <href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
   <img width="12" />
@@ -49,28 +49,30 @@
   
 </div>
 
-![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) 
+<div align="center">
+ <img src= "https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 <img width="12" />
-![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=Pandas&logoColor=white)
+ <img src= "https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=Pandas&logoColor=white" />
 <img width="12" />
-![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=NumPy&logoColor=white)
+ <img src= "https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=NumPy&logoColor=white" />
 <img width="12" />
-![SciPy](https://img.shields.io/badge/SciPy-000000?style=for-the-badge&logo=SciPy&logoColor=white)
+ <img src= "https://img.shields.io/badge/SciPy-000000?style=for-the-badge&logo=SciPy&logoColor=white" />
 <img width="12" />
-![A/B-tests](https://img.shields.io/badge/A/B-tests-000000?style=for-the-badge&logo=A/B-tests&logoColor=white)
+ <img src= "https://img.shields.io/badge/A/B-tests-000000?style=for-the-badge&logo=A/B-tests&logoColor=white" />
 <img width="12" />
-![Plotly](https://img.shields.io/badge/Plotly-000000?style=for-the-badge&logo=Plotly&logoColor=white)
+ <img src= "https://img.shields.io/badge/Plotly-000000?style=for-the-badge&logo=Plotly&logoColor=white" />
 <img width="12" />
-![Seaborn](https://img.shields.io/badge/Seaborn-000000?style=for-the-badge&logo=Seaborn&logoColor=white)
+ <img src= "https://img.shields.io/badge/Seaborn-000000?style=for-the-badge&logo=Seaborn&logoColor=white" />
 <img width="12" />
-![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=Matplotlib&logoColor=white)
+ <img src= "https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=Matplotlib&logoColor=white" />
 <img width="12" />
+</div>
    
 ###
 
-- 🔭 Сейчас работаю над созданием портфолио https://github.com/MariPolivan/Portfolio
+- 🔭 <ins>Сейчас работаю над созданием портфолио</ins> https://github.com/MariPolivan/Portfolio
   
-- ⚡ **Забавный факт обо мне:** Люблю всё посчитать -  недавно в гостях у сестры разобрала гору стираных носков по парам, вот что у меня получилось: 37 пар белых носков; 46 цветных пар; 19 тёмных пар носков; 10 пар - полосатые; 14 остались без пары. Из них детских пар носков ~81%, а взрослых - около 19% пар, что очевидно, в семье 4 детей. Цветные носки в основном детские, большая часть тёмных носков мужские взрослые, женские взрослые носки преимущественно белые.
+- ⚡ <ins>Забавный факт обо мне:</ins> Люблю всё посчитать -  недавно в гостях у сестры разобрала гору стираных носков по парам, вот что у меня получилось: 34 пар белых носков; 27 цветных пар; 14 тёмных пар носков; 9 пар - полосатые; 14 остались без пары, отправлены в ведро 5 носков. Всего чистых пар носков получилось 84, из них детских пар носков ~81%, а взрослых - около 19% пар, что очевидно, ведь в семье 4 детей. В среднем на каждого взрослого в семье приходится по 8 пар чистых носков, без учета тех что уже лежат у каждого в ящиках, на каждого ребенка в среднем приходится по 17 пар носков. Цветные носки в основном детские, большая часть тёмных носков мужские взрослые, женские взрослые носки преимущественно белые. 
 
 ###
 <h3 align="left">🔥   Моя статистика:</h3>
